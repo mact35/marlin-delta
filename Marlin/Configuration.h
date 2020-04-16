@@ -486,9 +486,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Delta
-  #define DEFAULT_Kp 24.97
-  #define DEFAULT_Ki 1.88
-  #define DEFAULT_Kd 82.93
+  #define DEFAULT_Kp 29.84
+  #define DEFAULT_Ki 2.28
+  #define DEFAULT_Kd 97.57
 
 #endif // PIDTEMP
 
